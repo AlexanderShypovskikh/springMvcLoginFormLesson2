@@ -1,4 +1,4 @@
-package com.shypovskikh.springforms;
+package com.shypovskikh.controllers;
 
 
 import javax.validation.Valid;
